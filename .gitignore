@@ -1,0 +1,8 @@
+*.o
+*.a
+*#
+*~
+coding_style.sh
+*.log
+*.out
+my_hunter
